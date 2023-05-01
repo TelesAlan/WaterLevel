@@ -6,7 +6,7 @@ Para realizar este projeto, utilizei as seguintes ferramentas:
 
  - 1 ESP32
  - 1 Speaker
- - 1 Sensor de nível d'água horizontal
+ - 1 Sensor de nível d'água horizontal ([Link no mercado livre](https://produto.mercadolivre.com.br/MLB-2804772868-boia-sensor-nivel-lateral-magnetico-agua-arduino-aquario-_JM?matt_tool=40343894&matt_word=&matt_source=google&matt_campaign_id=14303413655&matt_ad_group_id=133855953276&matt_match_type=&matt_network=g&matt_device=c&matt_creative=584156655519&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=314253506&matt_product_id=MLB2804772868&matt_product_partition_id=1816238256222&matt_target_id=pla-1816238256222&gclid=CjwKCAjwxr2iBhBJEiwAdXECwxI-NaACetl7EbXQMweXqBxHr41G6_Rrz2nXC2FO8iF5Mfdu3ZfbtRoCfTwQAvD_BwE))
  - 1 Protoboard
 
 # Dependências
@@ -60,6 +60,11 @@ Neste trecho da função *loop*, é feita a verificação para caso o equipament
 		}
 	}
 Para desabilitar, basta trocar *"EMIT_BEEP"* para "*false*".
+
+# Esquema
+![enter image description here](https://lh3.googleusercontent.com/qNMRFRwnUz0LkI6adyLxoOEOJPc7dhFehort_Zn1ngMfG2Xe07a_G5ebN_ox7P8JjJSBX91ehbNyRQn9mW76VL0Sv08IIgdqiYyGs3aUEYlJpq0saiRhw1wvmraEquFwOCsbVny-7MdjCEtUeKuALIqDq0I5VPhH6AA9sdvP6oqNfMGNd2R7ROXLh0ATiA43LSP1zFebsN8fR4vPdfUJIqy_TkAKBKdPk2wC0sQr8t786Le20mIIVQMAvU_AlXsjGQP7xw3L09F0S-2J4zTDmze9JavJJHjc64-r-A7OSGDqvTgAds135Z2tNnlbWbvZJTdsBsMP566EYKgBpochpyqlig1pIf6MH_4w__x2cLszf5ilPLX3Vbrkr0-21imLD4oZKIOPapBm6470YQLWq7qMRh9ARgfl0IfmFHHFUeP7viBXYK9MgbJQGxjO7d_bh3QUjZ6FMm20Pfq4TV18lYpiW8t7KUVKol_dLTZ55khI4VBvBhI0P24RRyyof9YmYkr4M_XRHWPm6CjmPn85_lFQAzEWvIfbs9iva9OWWNUayhcdNpJpLGA-ua3_7Vp2lqZ3pRW5IK5LMxQBSxqSQl8wodM8DL0QztVBRGfM_GDhOzJQ9jxy_Re09ubuX_u4w1uPuj0v9c3trn-DYq6Sl9Uzfu-Fmsk1HislygzXXFB0rAuGpLqPzE5zzpG_4xF7w6Qipws_cN_DoYlI5bDddWpi1m-6chOzWm_g04UQQZQMZlQHnz802ktZezCKPaz01m6knVac2hCron8k_0h3J9Vbe6fzOm1b1d2Cbww2Yokc2QuGX6Ryy5fRDBmcYEFrEhhZDV_sBb3cYPx1oEgShUJD8Mvai5mVgMYlyFxUaga_wXP-ZUMTPN_KRfITT7sonyOQHAZPS0PFVUPCoq4mBMRo6dZ7Oo_dKQ5NK2NtV97Wyc_52g=w576-h667-s-no?authuser=0)
+[Clique aqui](https://youtube.com/shorts/T29lxYrhNkw) para ver o vídeo do projeto funcionando.
+
 
 # Referências
 - https://www.instructables.com/ESP32-Smart-Home-System-With-Alexa-App-Manual-Swit/
