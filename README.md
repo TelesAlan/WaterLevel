@@ -62,7 +62,7 @@ Neste trecho da função *loop*, é feita a verificação para caso o equipament
 Para desabilitar, basta trocar *"EMIT_BEEP"* para "*false*".
 
 # Esquema!
-[Esquema pinos](https://user-images.githubusercontent.com/73892235/235707780-dd10f86d-b0bf-4cd1-9610-205d2a727f35.jpg)
+![Esquema pinos](https://user-images.githubusercontent.com/73892235/235707780-dd10f86d-b0bf-4cd1-9610-205d2a727f35.jpg)
 
 [Clique aqui](https://youtube.com/shorts/T29lxYrhNkw) para ver o vídeo do projeto funcionando.
 
